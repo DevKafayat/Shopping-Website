@@ -1,0 +1,274 @@
+@import url(utility.css);
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    width: 100vw;
+    
+}
+
+*{
+    /* height: 100vh;
+    width: 100vw; */
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+
+main {
+    width: 100vw;
+    min-height: 100vh;
+}
+
+h1
+
+.card-1 {
+    width: 100vw;
+    height: vh;
+    background-color: #fff;
+}
+
+nav {
+   width: 100%; 
+   height: 7vh;
+   padding-left: 20px;
+   margin-top: 10px;
+}
+
+.left-nav img {
+    width: 14px;
+    height: 14px;
+}
+
+.card-1 ul {
+    list-style-type: none;
+    padding-right: 40px;
+    font-size: 12px;
+}
+
+.card-1 li button {
+    font-size: 12px;
+    background-color: black;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.content-1 h1{
+   font-size: 40px;
+   font-weight: bold;
+}
+
+.content-1-img {
+    width: 500px;
+    height: 400px;
+}
+
+.content-1 button,
+.card-4 button {
+background-color: black;
+color: #fff;
+width: 100px;
+padding: 10px;
+border-radius: 5px;
+border: none;
+outline: none;
+}
+
+.vector-img {
+    width: 90px;
+}
+
+.unique {
+   background-color: #EBD96B; 
+   padding: 10px 0 6px 8px;
+   width: 210px;
+}
+
+.logos-div {
+    width: 100%;
+    height: 8vh;
+    background-color: #EBD96B;
+}
+
+.card-3 {
+    width: 100vw;
+    height: vh;
+    padding: 0 60px 60px 60px;
+    background-color: white;
+}
+
+.card-3 img {
+    width: 350px;
+    height: 450px;
+}
+
+.card-3 h5,
+.card-5 h5{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.card-4 {
+    width: 100vw;
+    background-color: #E6C744;
+}
+
+.card-4 img {
+    margin-left: 120px;
+}
+
+.payday {
+    background-color: #fff;
+    width: 170px;
+    padding: 8px;
+}
+
+.card-5 img {
+    width: 45vw;
+}
+
+.card-6 button {
+    background-color: black;
+    color: #fff;
+    width: 150px;
+    height: 80px;
+}
+
+.mobile {
+    height: 620px;
+    width: 320px;
+    border: 20px solid #C2C8DA;
+    border-radius: 35px;
+    background-color: #fff;
+    padding: 30px 15px 15px 15px;
+}
+
+.mobile-profile .mobile-vector {
+    width: 18px;
+}
+
+.mobile-profile .ellipse {
+    width: 30px;
+}
+
+.search input, 
+.search i{
+    background-color: #DDDDDD66;
+    border: none;
+    outline: none;
+}
+
+.search input {
+    width: 85%;
+    height: 35px;
+    border-radius: 0 10px 10px 0;
+}
+
+.search i {
+    height: 35px;
+    width: 30px;
+    padding: 8px;
+    border-radius: 10px 0 0 10px;
+}
+
+.mobile ul {
+    list-style-type: none;
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+.all,
+.new {
+    width: 40px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #DDDDDD66;
+}
+
+.trending {
+    background-color: #EBD96B;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.mobile-images img,
+.mobile-images2 img {
+    width: 100px;
+    height: 120px;
+}
+
+.mobile-images h5,
+.mobile-images p {
+    font-size: 10px;
+}
+
+.mobile .icons img {
+    width: 20px;
+}
+
+.card-7 {
+    background-color: #EBD96B;
+    padding: 50px;
+}
+
+.join {
+    width: 25ch;
+    text-align: center;
+}
+
+.card-7 .Email {
+    width: 350px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 6px;
+    background-color: white;
+}
+
+.card-7 button {
+    background-color: black;
+    width: 80px;
+    height: 35px;
+    border-radius: 6px;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.card-8 {
+    background-color: black;
+    color: #fff;
+    padding: 60px;
+}
+
+.card-8 i {
+    background-color: #EBD96B;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card-8 li {
+    list-style-type: none;
+    font-size: 16px;
+    color: #bea2a266;
+}
+
+.card-8 p {
+    color: #bea2a266;
+}
+
+.card-8 .legal {
+    color: #fff;
+}
+
+.card-8 .company {
+    color: #fff;
+}
+
+.card-8 .quick-link {
+    color: #fff;
+}
